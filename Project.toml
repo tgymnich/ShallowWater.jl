@@ -1,0 +1,11 @@
+name = "ShallowWater"
+uuid = "a19a0495-f2dd-41bf-91d9-e7f07d89e0b6"
+authors = ["Tim Gymnich <tgymnich@icloud.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+NetCDF = "30363a11-5582-574a-97bb-aa9a979735b9"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
